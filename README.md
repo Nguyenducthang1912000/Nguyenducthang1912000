@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nguyenducthang1912000
 - 👀 I’m interested in SolidWork
 - 🌱 I’m currently learning University of Information Technology
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Designing embedded system
 - 📫 How to reach me email: ducthangnguyen303@gmail.com
 
 <!---
